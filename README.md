@@ -100,4 +100,5 @@ The model was trained on Galaxy Zoo dataset images, which were preprocessed and 
 - **Streamlit**: For building the intuitive frontend for user interaction.
 - **WGAN-GP**: For generating realistic galaxy images.
 - **Pix2Pix**: For colorizing grayscale galaxy images.
+- **Galaxy Zoo Dataset**: for enabling high-quality training data.
 
